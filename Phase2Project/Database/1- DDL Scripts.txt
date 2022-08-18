@@ -1,0 +1,36 @@
+
+create database db_flight_reservation;
+
+use database db_flight_reservation;
+
+create table Admin_Login(Username varchar(450) primary key, Password varchar(30));
+create table User_Login(Username varchar(450) primary key, Password varchar(30));
+
+create table Flight_details(airline_name varchar(500), price integer,flight_no varchar(300) primary key,
+source_city varchar(500),
+destination_city varchar(500),
+departure_time DATETIME,
+arrival_time DATETIME,
+total_seats integer,
+booked_seats integer,
+seat_availibility integer,
+date_of_travel date,
+Travel_class varchar(200));
+
+create table Register_Details(Full_Name varchar(500), Address varchar(500), Birth_Date Date , mobile varchar(500), email_id varchar(450) primary key,
+Document_Type varchar(200),Document_number varchar(200),country varchar(500));
+
+create table booking(
+booking_id integer primary key,
+email_id varchar(450),
+flight_no varchar(300));
+ 
+ 
+ ALTER TABLE booking
+ADD CONSTRAINT FK_REG_DETAILS
+FOREIGN KEY (email_id) REFERENCES Register_Details(email_id);
+ 
+ALTER TABLE booking
+ADD CONSTRAINT FK_FlightBooking
+FOREIGN KEY (flight_no) REFERENCES Flight_details(flight_no);
+

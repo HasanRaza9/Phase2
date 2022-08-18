@@ -1,0 +1,113 @@
+INSERT INTO flight_details(airline_name ,price ,flight_no ,source_city ,destination_city ,departure_time,arrival_time,total_seats,booked_seats,seat_availibility ,date_of_travel ,Travel_Class )values('Air India',500,'AI101','Dehli','Bombay','2022-08-30 08:45:00','2022-08-30 11:10:00',200,0,200,'2022-08-30','Economy');
+      
+INSERT INTO flight_details(airline_name ,price ,flight_no ,source_city ,destination_city ,departure_time,arrival_time,total_seats,booked_seats,seat_availibility ,date_of_travel ,Travel_Class )values('SpiceJet',500,'SJ102','Dehli','Bombay','2022-08-30 10:30:00','2022-08-30 11:30:00',200,0,200,'2022-08-30','Economy');
+  
+INSERT INTO flight_details(airline_name ,price ,flight_no ,source_city ,destination_city ,departure_time,arrival_time,total_seats,booked_seats,seat_availibility ,date_of_travel ,Travel_Class )values('AirAsia India',500,'AA103','Dehli','Bombay','2022-08-30 11:00:00','2022-08-30 14:00:00',200,0,200,'2022-08-30','Economy');  
+  
+
+INSERT INTO flight_details(airline_name ,price ,flight_no ,source_city ,destination_city ,departure_time,arrival_time,total_seats,booked_seats,seat_availibility ,date_of_travel ,Travel_Class )values('Air India',500,'AI104','Dehli','Chennai','2022-08-30 08:45:00','2022-08-30 11:10:00',200,0,200,'2022-08-30','Economy');
+
+INSERT INTO flight_details(airline_name ,price ,flight_no ,source_city ,destination_city ,departure_time,arrival_time,total_seats,booked_seats,seat_availibility ,date_of_travel ,Travel_Class )values('SpiceJet',500,'SJ105','Dehli','Chennai','2022-08-30 11:45:00','2022-08-30 16:56:00',200,0,200,'2022-08-30','Economy');
+
+
+INSERT INTO flight_details(airline_name ,price ,flight_no ,source_city ,destination_city ,departure_time,arrival_time,total_seats,booked_seats,seat_availibility ,date_of_travel ,Travel_Class )values('SpiceJet',500,'SJ106','Dehli','Chennai','2022-08-30 10:30:00','2022-08-30 11:30:00',200,0,200,'2022-08-30','Economy');
+  
+
+  
+INSERT INTO flight_details(airline_name ,price ,flight_no ,source_city ,destination_city ,departure_time,arrival_time,total_seats,booked_seats,seat_availibility ,date_of_travel ,Travel_Class )values('Air India',500,'AI107','Dehli','Hyderabad','2022-08-30 08:45:00','2022-08-30 11:10:00',200,0,200,'2022-08-30','Economy');
+
+INSERT INTO flight_details(airline_name ,price ,flight_no ,source_city ,destination_city ,departure_time,arrival_time,total_seats,booked_seats,seat_availibility ,date_of_travel ,Travel_Class )values('SpiceJet',500,'SJ108','Dehli','Hyderabad','2022-08-30 11:45:00','2022-08-30 16:56:00',200,0,200,'2022-08-30','Economy');
+
+
+INSERT INTO flight_details(airline_name ,price ,flight_no ,source_city ,destination_city ,departure_time,arrival_time,total_seats,booked_seats,seat_availibility ,date_of_travel ,Travel_Class )values('SpiceJet',500,'SJ109','Dehli','Hyderabad','2022-08-30 10:30:00','2022-08-30 11:30:00',200,0,200,'2022-08-30','Economy');
+  
+  
+  
+INSERT INTO flight_details(airline_name ,price ,flight_no ,source_city ,destination_city ,departure_time,arrival_time,total_seats,booked_seats,seat_availibility ,date_of_travel ,Travel_Class )values('Air India',500,'AI110','Bombay','Dehli','2022-08-30 08:45:00','2022-08-30 11:10:00',200,0,200,'2022-08-30','Economy');
+      
+INSERT INTO flight_details(airline_name ,price ,flight_no ,source_city ,destination_city ,departure_time,arrival_time,total_seats,booked_seats,seat_availibility ,date_of_travel ,Travel_Class )values('SpiceJet',500,'SJ111','Bombay','Dehli','2022-08-30 10:30:00','2022-08-30 11:30:00',200,0,200,'2022-08-30','Economy');
+  
+INSERT INTO flight_details(airline_name ,price ,flight_no ,source_city ,destination_city ,departure_time,arrival_time,total_seats,booked_seats,seat_availibility ,date_of_travel ,Travel_Class )values('AirAsia India',500,'AA112','Bombay','Dehli','2022-08-30 11:00:00','2022-08-30 14:00:00',200,0,200,'2022-08-30','Economy');  
+  
+   
+ 
+INSERT INTO flight_details(airline_name ,price ,flight_no ,source_city ,destination_city ,departure_time,arrival_time,total_seats,booked_seats,seat_availibility ,date_of_travel ,Travel_Class )values('Air India',500,'AI112','Bombay','Chennai','2022-08-30 08:45:00','2022-08-30 11:10:00',200,0,200,'2022-08-30','Economy');
+      
+INSERT INTO flight_details(airline_name ,price ,flight_no ,source_city ,destination_city ,departure_time,arrival_time,total_seats,booked_seats,seat_availibility ,date_of_travel ,Travel_Class )values('SpiceJet',500,'SJ113','Bombay','Chennai','2022-08-30 10:30:00','2022-08-30 11:30:00',200,0,200,'2022-08-30','Economy');
+  
+INSERT INTO flight_details(airline_name ,price ,flight_no ,source_city ,destination_city ,departure_time,arrival_time,total_seats,booked_seats,seat_availibility ,date_of_travel ,Travel_Class )values('AirAsia India',500,'AA114','Bombay','Chennai','2022-08-30 11:00:00','2022-08-30 14:00:00',200,0,200,'2022-08-30','Economy');   
+  
+ 
+INSERT INTO flight_details(airline_name ,price ,flight_no ,source_city ,destination_city ,departure_time,arrival_time,total_seats,booked_seats,seat_availibility ,date_of_travel ,Travel_Class )values('Air India',500,'AI115','Bombay','Hyderabad','2022-08-30 08:45:00','2022-08-30 11:10:00',200,0,200,'2022-08-30','Economy');
+      
+INSERT INTO flight_details(airline_name ,price ,flight_no ,source_city ,destination_city ,departure_time,arrival_time,total_seats,booked_seats,seat_availibility ,date_of_travel ,Travel_Class )values('SpiceJet',500,'SJ116','Bombay','Hyderabad','2022-08-30 10:30:00','2022-08-30 11:30:00',200,0,200,'2022-08-30','Economy');
+  
+INSERT INTO flight_details(airline_name ,price ,flight_no ,source_city ,destination_city ,departure_time,arrival_time,total_seats,booked_seats,seat_availibility ,date_of_travel ,Travel_Class )values('AirAsia India',500,'AA117','Bombay','Hyderabad','2022-08-30 11:00:00','2022-08-30 14:00:00',200,0,200,'2022-08-30','Economy');   
+    
+
+INSERT INTO flight_details(airline_name ,price ,flight_no ,source_city ,destination_city ,departure_time,arrival_time,total_seats,booked_seats,seat_availibility ,date_of_travel ,Travel_Class )values('Air India',500,'AI118','Chennai','Dehli','2022-08-30 08:45:00','2022-08-30 11:10:00',200,0,200,'2022-08-30','Economy');
+      
+INSERT INTO flight_details(airline_name ,price ,flight_no ,source_city ,destination_city ,departure_time,arrival_time,total_seats,booked_seats,seat_availibility ,date_of_travel ,Travel_Class )values('SpiceJet',500,'SJ119','Chennai','Dehli','2022-08-30 10:30:00','2022-08-30 11:30:00',200,0,200,'2022-08-30','Economy');
+  
+INSERT INTO flight_details(airline_name ,price ,flight_no ,source_city ,destination_city ,departure_time,arrival_time,total_seats,booked_seats,seat_availibility ,date_of_travel ,Travel_Class )values('AirAsia India',500,'AA120','Chennai','Dehli','2022-08-30 11:00:00','2022-08-30 14:00:00',200,0,200,'2022-08-30','Economy');  
+  
+ 
+INSERT INTO flight_details(airline_name ,price ,flight_no ,source_city ,destination_city ,departure_time,arrival_time,total_seats,booked_seats,seat_availibility ,date_of_travel ,Travel_Class )values('Air India',500,'AI121','Chennai','Bombay','2022-08-30 08:45:00','2022-08-30 11:10:00',200,0,200,'2022-08-30','Economy');
+      
+INSERT INTO flight_details(airline_name ,price ,flight_no ,source_city ,destination_city ,departure_time,arrival_time,total_seats,booked_seats,seat_availibility ,date_of_travel ,Travel_Class )values('SpiceJet',500,'SJ122','Chennai','Bombay','2022-08-30 10:30:00','2022-08-30 11:30:00',200,0,200,'2022-08-30','Economy');
+  
+INSERT INTO flight_details(airline_name ,price ,flight_no ,source_city ,destination_city ,departure_time,arrival_time,total_seats,booked_seats,seat_availibility ,date_of_travel ,Travel_Class )values('AirAsia India',500,'AA123','Chennai','Bombay','2022-08-30 11:00:00','2022-08-30 14:00:00',200,0,200,'2022-08-30','Economy');   
+  
+ 
+INSERT INTO flight_details(airline_name ,price ,flight_no ,source_city ,destination_city ,departure_time,arrival_time,total_seats,booked_seats,seat_availibility ,date_of_travel ,Travel_Class )values('Air India',500,'AI124','Chennai','Hyderabad','2022-08-30 08:45:00','2022-08-30 11:10:00',200,0,200,'2022-08-30','Economy');
+      
+INSERT INTO flight_details(airline_name ,price ,flight_no ,source_city ,destination_city ,departure_time,arrival_time,total_seats,booked_seats,seat_availibility ,date_of_travel ,Travel_Class )values('SpiceJet',500,'SJ125','Chennai','Hyderabad','2022-08-30 10:30:00','2022-08-30 11:30:00',200,0,200,'2022-08-30','Economy');
+  
+INSERT INTO flight_details(airline_name ,price ,flight_no ,source_city ,destination_city ,departure_time,arrival_time,total_seats,booked_seats,seat_availibility ,date_of_travel ,Travel_Class )values('AirAsia India',500,'AA126','Chennai','Hyderabad','2022-08-30 11:00:00','2022-08-30 14:00:00',200,0,200,'2022-08-30','Economy');   
+    
+
+INSERT INTO flight_details(airline_name ,price ,flight_no ,source_city ,destination_city ,departure_time,arrival_time,total_seats,booked_seats,seat_availibility ,date_of_travel ,Travel_Class )values('Air India',500,'AI127','Hyderabad','Dehli','2022-08-30 08:45:00','2022-08-30 11:10:00',200,0,200,'2022-08-30','Economy');
+      
+INSERT INTO flight_details(airline_name ,price ,flight_no ,source_city ,destination_city ,departure_time,arrival_time,total_seats,booked_seats,seat_availibility ,date_of_travel ,Travel_Class )values('SpiceJet',500,'SJ128','Hyderabad','Dehli','2022-08-30 10:30:00','2022-08-30 11:30:00',200,0,200,'2022-08-30','Economy');
+  
+INSERT INTO flight_details(airline_name ,price ,flight_no ,source_city ,destination_city ,departure_time,arrival_time,total_seats,booked_seats,seat_availibility ,date_of_travel ,Travel_Class )values('AirAsia India',500,'AA129','Hyderabad','Dehli','2022-08-30 11:00:00','2022-08-30 14:00:00',200,0,200,'2022-08-30','Economy');  
+  
+ 
+INSERT INTO flight_details(airline_name ,price ,flight_no ,source_city ,destination_city ,departure_time,arrival_time,total_seats,booked_seats,seat_availibility ,date_of_travel ,Travel_Class )values('Air India',500,'AI130','Hyderabad','Bombay','2022-08-30 08:45:00','2022-08-30 11:10:00',200,0,200,'2022-08-30','Economy');
+      
+INSERT INTO flight_details(airline_name ,price ,flight_no ,source_city ,destination_city ,departure_time,arrival_time,total_seats,booked_seats,seat_availibility ,date_of_travel ,Travel_Class )values('SpiceJet',500,'SJ131','Hyderabad','Bombay','2022-08-30 10:30:00','2022-08-30 11:30:00',200,0,200,'2022-08-30','Economy');
+  
+INSERT INTO flight_details(airline_name ,price ,flight_no ,source_city ,destination_city ,departure_time,arrival_time,total_seats,booked_seats,seat_availibility ,date_of_travel ,Travel_Class )values('AirAsia India',500,'AA132','Hyderabad','Bombay','2022-08-30 11:00:00','2022-08-30 14:00:00',200,0,200,'2022-08-30','Economy');   
+  
+ 
+INSERT INTO flight_details(airline_name ,price ,flight_no ,source_city ,destination_city ,departure_time,arrival_time,total_seats,booked_seats,seat_availibility ,date_of_travel ,Travel_Class )values('Air India',500,'AI133','Hyderabad','Chennai','2022-08-30 08:45:00','2022-08-30 11:10:00',200,0,200,'2022-08-30','Economy');
+      
+INSERT INTO flight_details(airline_name ,price ,flight_no ,source_city ,destination_city ,departure_time,arrival_time,total_seats,booked_seats,seat_availibility ,date_of_travel ,Travel_Class )values('SpiceJet',500,'SJ134','Hyderabad','Chennai','2022-08-30 10:30:00','2022-08-30 11:30:00',200,0,200,'2022-08-30','Economy');
+  
+INSERT INTO flight_details(airline_name ,price ,flight_no ,source_city ,destination_city ,departure_time,arrival_time,total_seats,booked_seats,seat_availibility ,date_of_travel ,Travel_Class )values('AirAsia India',500,'AA135','Hyderabad','Chennai','2022-08-30 11:00:00','2022-08-30 14:00:00',200,0,200,'2022-08-30','Economy');   
+  
+INSERT INTO 
+	Admin_Login(Username,Password)
+VALUES
+	('admin_123@gmail.com','test123');
+	
+INSERT INTO 
+	User_Login(Username,Password)
+VALUES
+	('test_123@gmail.com','test123');
+ 
+INSERT INTO 
+	User_Login(Username,Password)
+VALUES
+	('dummy_678@gmail.com','test123'); 
+
+INSERT INTO 
+	User_Login(Username,Password)
+VALUES
+	('faizi_978@gmail.com','test123');
+  
+  
+  
+  
+  
+  
