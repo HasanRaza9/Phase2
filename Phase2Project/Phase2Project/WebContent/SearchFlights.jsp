@@ -28,7 +28,7 @@
 	<option value="Dehli">Dehli</option>
 	<option value="Bombay">Bombay</option>
 	<option value="Chennai">Chennai</option>
-	<option value="Lahore">Lahore</option>
+	<option value="Hyderabad">Hyderabad</option>
 	</select><br> 
 	<!-- <input type="text" name="SourceCity" required><br> -->
 	</fieldset>
@@ -40,7 +40,7 @@
 	<option value="Dehli">Dehli</option>
 	<option value="Bombay">Bombay</option>
 	<option value="Chennai">Chennai</option>
-	<option value="Lahore">Lahore</option>
+	<option value="Hyderabad">Hyderabad</option>
 	</select><br>
 	
 	<!-- <input type="text" name="DestCity" required><br> -->

@@ -21,7 +21,7 @@ create table Register_Details(Full_Name varchar(500), Address varchar(500), Birt
 Document_Type varchar(200),Document_number varchar(200),country varchar(500));
 
 create table booking(
-booking_id integer primary key,
+booking_id integer AUTO_INCREMENT primary key,
 email_id varchar(450),
 flight_no varchar(300));
  
